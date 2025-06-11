@@ -7,7 +7,7 @@ export default function manifest() {
     display: 'fullscreen',
     background_color: '#ffffff',
     theme_color: '#000000',
-    icons: [
+    icons: [ 
       {
         src: '/logo.jpg',
         sizes: '192x192',
