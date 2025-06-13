@@ -67,7 +67,7 @@ export default function InstallPrompt() {
       >
         <p className="text-gray-900 mb-4 font-semibold text-center text-sm md:text-base">
           Download Our Application
-        </p>
+        </p> 
         <div className="flex justify-center">
           <button
             onClick={handleInstall}
