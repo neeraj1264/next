@@ -1,4 +1,5 @@
 import Footer from "./components/Footer";
+import InstallPrompt from "./components/InstallPrompt";
 import Navbar from "./components/Navbar";
 import "./globals.css";
 import { Montserrat, Lora } from 'next/font/google'
@@ -16,6 +17,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="font-heading">
         <Navbar />
+        <InstallPrompt/>
         <main>  {/* page content */}
           {children}
         </main>
