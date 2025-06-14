@@ -86,7 +86,7 @@ export default function InstallPrompt() {
               Install Treasured Care
             </p>
             <p className="text-sm text-gray-700 text-center mb-2">
-              Tap <strong>Share</strong> icon <span className="text-xl">🔗</span> and choose <strong>"Add to Home Screen"</strong>
+              Tap <strong>Share</strong> icon <span className="text-xl">🔗</span> and choose <strong>&quot;Add to Home Screen&quot;</strong>
             </p>
           </>
         ) : (
